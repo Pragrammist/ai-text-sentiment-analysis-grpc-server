@@ -1,0 +1,4 @@
+grpcio-tools
+requests==2.23.0
+transformers
+torch
